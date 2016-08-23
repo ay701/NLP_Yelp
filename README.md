@@ -1,1 +1,4 @@
-# NLP_Yelp
+NLP_Yelp
+========
+
+Finding local restaurants using Natural Language Processing
